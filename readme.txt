@@ -4,7 +4,7 @@ Tags: plugin, islam, quran, koran, muslim, hadith, widget
 Donate link: http://www.islamicnature.com/donate.php
 Requires at least: 2.8
 Tested up to: 2.8.x
-Stable tag: 1.0
+Stable tag: 1.1
 
 A widget that displays a different hadith a day
 
