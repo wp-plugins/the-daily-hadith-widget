@@ -5,7 +5,7 @@ Plugin URI: http://iknowledge.islamicnature.com/extras.php
 Description: A widget that displays a different hadith a day
 Author: Umar Sheikh
 Author URI: http://www.indezinez.com
-Version: 1.1
+Version: 1.2
 */
 
 add_action('widgets_init', 'load_daily_hadith');
