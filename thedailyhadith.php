@@ -36,7 +36,7 @@ class Daily_Hadith extends WP_Widget {
 		}
 		if($file = file_get_contents('http://iknowledge.islamicnature.com/dh_script.php')){
       $file = preg_replace('/document\.write\(\'(.*)\'\)\;/','$1',$file);
-      echo '<p>'.$file.'</p>';
+      echo '<p>'.str_replace("\'","'",$file).'</p>';
 		}else{
       echo '
       <p>
