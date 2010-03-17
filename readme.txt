@@ -3,7 +3,7 @@ Contributors: Umar Sheikh
 Tags: plugin, islam, quran, koran, muslim, hadith, widget
 Donate link: http://www.islamicnature.com/donate.php
 Requires at least: 2.8
-Stable tag: 1.3
+Stable tag: 1.4
 
 A widget that displays a different hadith a day
 
