@@ -1,5 +1,5 @@
 === The Daily Hadith Widget ===
-Contributors: Umar Sheikh
+Contributors: indezinez
 Tags: plugin, islam, quran, koran, muslim, hadith, widget
 Donate link: http://www.islamicnature.com/donate.php
 Requires at least: 2.8
